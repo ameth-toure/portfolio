@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 850 >>
+stream
+BT
+/F1 24 Tf
+50 720 Td
+(OPENCLASSROOMS) Tj
+0 -40 Td
+/F1 18 Tf
+(Certificat de Réussite) Tj
+0 -60 Td
+/F1 14 Tf
+(Nous certifions que) Tj
+0 -40 Td
+/F1 20 Tf
+(AMETH TOURE) Tj
+0 -40 Td
+/F1 14 Tf
+(a suivi avec succès la formation) Tj
+0 -30 Td
+/F1 16 Tf
+(Git et GitHub - Gérez votre code source) Tj
+0 -50 Td
+/F1 12 Tf
+(Durée de la formation: 15 heures) Tj
+0 -25 Td
+(Date d'obtention: Novembre 28, 2024) Tj
+0 -25 Td
+(Numéro de certificat: GIT-2024-OC-AT-002) Tj
+0 -60 Td
+/F1 10 Tf
+(Compétences acquises:) Tj
+0 -20 Td
+(- Utilisation avancée de Git en ligne de commande) Tj
+0 -15 Td
+(- Gestion des branches et fusion de code) Tj
+0 -15 Td
+(- Collaboration sur GitHub et GitLab) Tj
+0 -15 Td
+(- Résolution de conflits et bonnes pratiques) Tj
+0 -15 Td
+(- Workflow de développement en équipe) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000284 00000 n 
+0000001185 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1264
+%%EOF
